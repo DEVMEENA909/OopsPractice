@@ -1,7 +1,7 @@
 public class Main {
     public static void main(String[] args) {
     Pen p1 =new Pen();
-    p1.setColor("orange");
+    p1.setColor("Black");
         System.out.println(p1.getColor());
         p1.setTip(4);
         System.out.println(p1.getTip());
